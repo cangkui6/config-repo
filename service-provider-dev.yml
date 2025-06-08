@@ -13,4 +13,4 @@ eureka:
     prefer-ip-address: true
     instance-id: service-provider-8081
 provider:
-  message: "服务提供者的初始配置消息"
+  message: "这是修改后的服务提供者消息 - 时间戳：[当前时间]"
