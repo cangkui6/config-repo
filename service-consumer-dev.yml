@@ -23,3 +23,5 @@ eureka:
   instance:
     instance-id: consumer-8083
     prefer-ip-address: true
+consumer:
+  message: "服务消费者的初始配置消息"

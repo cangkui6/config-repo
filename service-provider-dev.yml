@@ -12,3 +12,5 @@ eureka:
   instance:
     prefer-ip-address: true
     instance-id: service-provider-8081
+provider:
+  message: "这是初始配置消息"
